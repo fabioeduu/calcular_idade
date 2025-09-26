@@ -1,0 +1,15 @@
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\bin\Debug\net8.0\Calcular_idade.exe
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\bin\Debug\net8.0\Calcular_idade.deps.json
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\bin\Debug\net8.0\Calcular_idade.runtimeconfig.json
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\bin\Debug\net8.0\Calcular_idade.dll
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\bin\Debug\net8.0\Calcular_idade.pdb
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.AssemblyInfoInputs.cache
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.AssemblyInfo.cs
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.csproj.CoreCompileInputs.cache
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.sourcelink.json
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.dll
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\refint\Calcular_idade.dll
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.pdb
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\Calcular_idade.genruntimeconfig.cache
+C:\Users\grana\Desktop\Calcular_idade\Calcular_idade\obj\Debug\net8.0\ref\Calcular_idade.dll
